@@ -1,4 +1,4 @@
-# HODLbot
+# Crypto View
 Drives the HODL strategy to an automated level across crypto currencies.
 
 ## Idea
